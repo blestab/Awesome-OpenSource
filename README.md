@@ -43,11 +43,11 @@ So that we have designed this project which focuses on resources , cheat sheets 
 
 
 ## **Tutorials**
-- [OSS For Beginner's](https://www.faridrifaie.my.id/2019/03/oss-contribution-for-beginners.html)
-- [How To Contribute Guide](https://opensource.guide/how-to-contribute/)
+- [Open Source Contribution for Beginners: 8 Powerful Ways to Join a Project](https://www.faridrifaie.my.id/2019/03/oss-contribution-for-beginners.html)
+- [How To Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/)
-- [Open Source Guide](https://opensource.guide)
-- [GitHub Guide](https://guides.github.com)
+- [Open Source Guides](https://opensource.guide)
+- [GitHub Guides](https://guides.github.com)
 
 
 ## **Videos And Courses**
