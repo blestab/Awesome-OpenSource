@@ -1,5 +1,5 @@
 # Contributions Guide
-[Awesome-OpenSource](https://github.com/MOSHC/Awesome-OpenSource) accepts PR contributions from beginner's, Intermediate or any developers.
+[Awesome-OpenSource](https://github.com/MOSHC/Awesome-OpenSource) accepts PR contributions from beginners, Intermediate or any developers.
 Issues sections always open to solve some sort of bugs.
 
 ## Contents
@@ -8,8 +8,8 @@ Issues sections always open to solve some sort of bugs.
    * [How To Do PR And Submission](#How-To-Do-PR-And-Submission)
 
 ### Getting Started
-1. So for the first time contributor just Just go to to our README for resources which will help you to understand basics.
-2. Then goto the Awesome-OpenSource](https://github.com/MOSHC/Awesome-OpenSource) Repo and fork it as it shown below.
+1. So for the first time contributor just go to our README for resources which will help you to understand basics.
+2. Then go to the Awesome-OpenSource](https://github.com/MOSHC/Awesome-OpenSource) Repo and fork it as it shown below.
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/9csji4wy5xyo9mlilr4t.png)
 
 3. After forking you can clone it for as your local repo using this command to do contributions.
@@ -30,7 +30,7 @@ example: git checkout -b Foo-feature
 3. Now you have to open README file from your local clone Repo in your any favourite editor, As shown below.
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/0pjqmp1hengv6z4mp81q.png)
 
-4. **Before Doing Contributions Goto The Issue Section**.
+4. **Before Doing Contributions Go to The Issue Section**.
 Lets say now if you want to add any link for tutorials section .
 **Note : As you know that this repo is for open source contributions for newbies so every section is related to only for open source contributions.** 
 To add the links for contributions you have to do this simple task as shown below.
