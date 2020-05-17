@@ -1,12 +1,12 @@
 # Awesome-OpenSource
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
-> A collection of resources and cheetsheets related to how to do open source Contributions.
+> A collection of resources and cheat sheets related to how to do open source Contributions.
 
 Open source projects are the future of real world, as we know Open Source Projects means that anybody can view the source code of the project or software. Open source projects welcomes all developers to do contributions with collaborative work to find out bugs and solve problems so that projects can be more bugless.
 But most beginner's who wants to learn more about contribution in open source projects ,  does not have proper resources. 
 
-So that we have designed this project which focuses on resources , cheetsheets and how to contribute open source projects. It does contain several of books , links , cheetsheet , some basic open source projects for first time contributors , some open source contest links and more.
+So that we have designed this project which focuses on resources , cheat sheets and how to contribute open source projects. It does contain several of books , links , cheat sheets , some basic open source projects for first time contributors , some open source contest links and more.
 
 **All type of [contributions](CONTRIBUTING.md) are welcome  are welcome. Read the [guidelines](CONTRIBUTING.md) how to contribute.**
 
@@ -20,7 +20,7 @@ So that we have designed this project which focuses on resources , cheetsheets a
   
 * [Videos And Courses](#Videos-And-Courses)
   
-* [Cheetsheets](#Cheetsheets)
+* [Cheat Sheets](#Cheat-Sheets)
     
 * [Tools And Version Control Systems](#Tools-and-Version-Control-Systems)
 
