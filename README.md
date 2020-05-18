@@ -54,6 +54,10 @@ So that we have designed this project which focuses on resources , cheat sheets 
 ## **Open Source Projects For Beginners**
 - [First Contributions](https://github.com/firstcontributions/first-contributions)
 - [Awesome For Beginners](https://github.com/mungell/awesome-for-beginners)
+- [HacktoberfestForBeginners](https://github.com/vichitr/HacktoberfestForBeginners)
+- [Open Source Android Weather App](https://github.com/ardovic/Open-Source-Android-Weather-App)
+- [Add a Quote - Great For Beginners](https://github.com/jayehernandez/letra-extension/issues/13)
+- [Sorting Algorithms](https://github.com/argonautica/sorting-algorithms)
 
 ## **Open Source Contests**
 - [Google Summer Of Code](https://summerofcode.withgoogle.com)
