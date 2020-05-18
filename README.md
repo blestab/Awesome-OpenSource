@@ -51,6 +51,8 @@ So that we have designed this project which focuses on resources , cheat sheets 
     - [Producing Open Source Software](http://producingoss.com)
     - [Open Source Book Series](https://opensource.com/resources/ebooks)
 
+<br/>
+
 ## **Open Source Projects For Beginners**
 - [First Contributions](https://github.com/firstcontributions/first-contributions)
 - [Awesome For Beginners](https://github.com/mungell/awesome-for-beginners)
@@ -59,28 +61,88 @@ So that we have designed this project which focuses on resources , cheat sheets 
 - [Add a Quote - Great For Beginners](https://github.com/jayehernandez/letra-extension/issues/13)
 - [Sorting Algorithms](https://github.com/argonautica/sorting-algorithms)
 
+<br/>
+
+
 ## **Open Source Contests**
-- [Google Summer Of Code](https://summerofcode.withgoogle.com)
-- [Girlscript Summer Of Code](https://www.gssoc.tech)
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
-- [Redhat Open Source Contest](https://research.redhat.com/open-source-contest)
+- [Google Summer Of Code](#Google-Summer-Of-Code)
+- [Girlscript Summer Of Code](#Girlscript-Summer-Of-Code)
+- [Hacktoberfest](#Hacktoberfest)
+- [Redhat Open Source Contest](#Redhat-Open-Source-Contest)
+
+
+### **Google Summer Of Code**
+- [Main](https://summerofcode.withgoogle.com)
+- [How it works?](https://summerofcode.withgoogle.com/how-it-works)
+
+
+### **Girlscript Summer Of Code**
+- [Main](https://www.gssoc.tech)
+- [How it works?](https://www.gssoc.tech/index.html#about)
+
+
+### **Hacktoberfest**
+- [Main](https://hacktoberfest.digitalocean.com)
+- [How it works?](https://hacktoberfest.digitalocean.com/details)
+
+
+### **Redhat Open Source Contest**
+- [Main](https://research.redhat.com/open-source-contest)
+- [How it works?](https://research.redhat.com/blog/events/open-source-contest)
+
+
+### **Open Source Projects For Beginners**
+- [First Contributions](https://github.com/firstcontributions/first-contributions)
+- [Awesome For Beginners](https://github.com/mungell/awesome-for-beginners)
+
+
+<br/>
 
 ## **Cheat Sheets** 
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Linux Command Cheat Sheet](https://files.fosswire.com/2007/08/fwunixref.pdf)
 - [A simple Git guide and cheat sheet for open source contributors](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors)
 
+<br/>
 
 ## **Linux In Open Source World**
 - [Open Source Guide By Linux Foundation](https://www.linuxfoundation.org/resources/open-source-guides/open-source-guides-reading-list)
 - [Command Line](https://progate.com/languages/commandline)
 
+<br/>
+
 ## **Tools and Version Control Systems**
-- [Git](https://git-scm.com)
-- [Mercurial](https://www.mercurial-scm.org)
-- [Github](https://github.com/about)
-- [Butbucket](https://bitbucket.org/product/features)
-- [Gitlab](https://about.gitlab.com/company)
+- [Git](#Git)
+- [Mercurial](#Mercurial)
+- [Github](#Github)
+- [Butbucket](#Bitbucket)
+- [Gitlab](#Gitlab)
+
+
+### **Git**
+- [About](https://git-scm.com)
+- [Download](https://git-scm.com/downloads)
+
+
+### **Mercurial**
+- [About](https://www.mercurial-scm.org)
+- [Download](https://www.mercurial-scm.org/downloads)
+
+
+### **Github**
+- [About](https://github.com/about)
+- [Download](https://desktop.github.com)
+
+
+### **Bitbucket**
+- [About](https://bitbucket.org/product/features)
+- [Download](https://bitbucket.org/product/download)
+
+
+### **Gitlab**
+- [About](https://about.gitlab.com/company)
+- [Download](https://about.gitlab.com/install/)
+
 
 <br/>
 
