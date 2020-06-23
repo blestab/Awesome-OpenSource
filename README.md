@@ -1,4 +1,3 @@
-This is my readme after the change.
 # Awesome-OpenSource
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
@@ -37,6 +36,7 @@ So that we have designed this project which focuses on resources , cheat sheets 
     - [How To Contribute to Open Source](https://opensource.guide/how-to-contribute/)
     - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/)
     - [An Introduction to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
+    - [How to make your Contribution to Open Source Projects](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source)
     - [Open Source Guides](https://opensource.guide)
     - [GitHub Guides](https://guides.github.com)
 
