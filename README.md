@@ -96,6 +96,8 @@ So that we have designed this project which focuses on resources , cheat sheets 
 - [First Contributions](https://github.com/firstcontributions/first-contributions)
 - [Awesome For Beginners](https://github.com/mungell/awesome-for-beginners)
 
+### **Open Source Projects For Non Programmers**
+- [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) - Open Source projects where you can contribute without any programming knowledge
 
 <br/>
 
